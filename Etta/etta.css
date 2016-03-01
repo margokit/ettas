@@ -1,0 +1,88 @@
+body {
+      background-image: url(foto/guetar.jpg);
+      }
+.cont {
+       width: 850px;
+       background-color: white;
+       margin:0 auto;
+       margin:150px;
+      }
+.ett {
+       width: 200px;
+       margin-top: 230px;
+       float: right;
+       }
+.knop {
+       position:relative;
+       bottom:170px;
+       left:150px;
+       border-style: ontset;
+      }
+.btn {
+       padding: 10px;
+       margin-bottom: 20px;
+
+       margin-right: 1px;
+
+       background: #ccc;
+       text-decoration: none;
+       font-size:large;
+       border-radius: 4px;
+       display: inline-block;
+       color:black;
+      }
+.fot {
+      width: 250px;
+      margin-top:0px;
+      float:right;
+      }
+.bio {
+      width:550px;
+      padding:30px;
+      
+      font-size:medium;
+      }
+.nop {
+      position:relative;
+      left:150px;
+      bottom:170px;
+      }
+.foto {
+       width: 250px;
+       margin-top:0px;
+       float:right;
+      }
+.bot {
+      position:relative;
+      left:150px;
+      bottom:170px;
+      }
+.albom {
+        font-size:large;
+        padding:43px;
+               
+       }
+.con {
+       width: 850px;
+       margin:0 auto;
+       margin:150px;
+       padding:15px;
+       background-color: white;
+       text-align:center;
+       }
+.knopka {
+       position:relative ;
+       bottom: 170px;
+       left: 150px;
+       border-style: ontset;
+       } 
+.conta {
+       position : relative;
+       width: 850px;
+       top:150px;
+       left:210px;
+       background-color:#ccc;
+       text-align:center;
+}
+       
+        
